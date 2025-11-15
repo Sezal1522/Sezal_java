@@ -1,0 +1,11 @@
+/experiment 6
+//q3..part 3
+public class MainArea {
+    public static void main(String[] args) {
+        Area1 a = new Area1();
+        System.out.println("kartik 24csu319");
+        a.RectangleArea(5, 3);
+        a.SquareArea(4);
+        a.CircleArea(7);
+    }
+}
