@@ -1,0 +1,8 @@
+package exercises;
+
+public class PackageDemo {
+    public void display() {
+        System.out.println("sezal 24csu293");
+        System.out.println("PackageDemo executed");
+    }
+}
